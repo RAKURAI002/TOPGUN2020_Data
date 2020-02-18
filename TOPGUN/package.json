@@ -1,0 +1,17 @@
+{
+  "name": "jan08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "keras": "^1.0.1",
+    "neat-csv": "^5.1.0",
+    "one-hot": "^2.1.4"
+  }
+}
