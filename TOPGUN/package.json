@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "keras": "^1.0.1",
     "neat-csv": "^5.1.0",
     "one-hot": "^2.1.4"
